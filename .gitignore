@@ -1,0 +1,10 @@
+node_modules/
+
+# arquivos gerados pelo Cypress
+cypress/reports/
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+.DS_Store
+npm-debug.log*

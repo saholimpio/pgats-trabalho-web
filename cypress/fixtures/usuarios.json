@@ -1,0 +1,24 @@
+{
+  "usuarioPadrao": {
+    "nome": "Marina Duarte",
+    "titulo": "Mrs",
+    "senha": "Senha@123",
+    "dia": "10",
+    "mes": "May",
+    "ano": "1992",
+    "primeiroNome": "Marina",
+    "sobrenome": "Duarte",
+    "empresa": "Oficina de Testes",
+    "endereco": "Avenida Central, 250",
+    "endereco2": "Sala 4",
+    "pais": "Canada",
+    "estado": "Ontario",
+    "cidade": "Toronto",
+    "cep": "M5V2T6",
+    "celular": "11999990000"
+  },
+  "loginInvalido": {
+    "email": "usuario.inexistente@example.com",
+    "senha": "senhaErrada"
+  }
+}

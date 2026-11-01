@@ -1,0 +1,13 @@
+{
+  "produtos": [1, 2],
+  "comentario": "Pedido gerado pelo teste automatizado",
+  "pagamento": {
+    "nomeNoCartao": "Marina Duarte",
+    "numero": "4242424242424242",
+    "cvc": "123",
+    "mes": "12",
+    "ano": "2031"
+  },
+  "buscaDeProduto": "top",
+  "emailDaInscricao": "inscricao.pgats@example.com"
+}
